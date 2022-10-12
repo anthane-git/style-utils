@@ -1,5 +1,3 @@
-@import 'styles/config/variables';
-
 @mixin screen-xs {
 	@media (max-width: #{$screen-sm}) {
 		@content;
