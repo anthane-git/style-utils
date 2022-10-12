@@ -1,6 +1,6 @@
 {
 	"name": "@anthane/style-utils",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Contains a collection of scss utilities",
 	"publishConfig": {
 		"access": "public",
