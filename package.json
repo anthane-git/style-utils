@@ -1,0 +1,17 @@
+{
+	"name": "@anthane/style-utils",
+	"version": "1.0.0",
+	"description": "Contains a collection of scss utilities",
+	"publishConfig": {
+		"access": "public",
+		"@anthane:registry": "https://registry.npmjs.org/"
+	},
+	"files": [
+		"dist"
+	],
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 0"
+	},
+	"author": "BlazeIsClone",
+	"license": "GPL-2.0"
+}
