@@ -4,9 +4,16 @@
 
 Contains a collection of scss utilities.
 
+
+## Usage
+
+SCSS
+
 ```scss
 @use '@anthane/style-utils/dist' as *;
 ```
+
+CSS
 
 ```css
 @import '@anthane/style-utils/dist/index.css';
